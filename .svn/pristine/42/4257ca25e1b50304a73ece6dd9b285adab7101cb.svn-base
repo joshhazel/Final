@@ -1,0 +1,1 @@
+Database schema created in MySQL Workbench

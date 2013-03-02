@@ -1,0 +1,1 @@
+Read the text file in each folder to understand what the folder is used for.
